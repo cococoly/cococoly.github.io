@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yiting Wang</title>
-    <link>yiting.world/</link>
+    <link>cococoly.github.io/</link>
     <description>Recent content on Yiting Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="yiting.world/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="cococoly.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
