@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Site Title</title>
+    <title>Tags on Roxo | Creative Design Agency</title>
     <link>cococoly.github.io/tags/</link>
-    <description>Recent content in Tags on Site Title</description>
+    <description>Recent content in Tags on Roxo | Creative Design Agency</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="cococoly.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -12,73 +13,73 @@
     
     <item>
       <title>css</title>
-      <link>cococoly.github.io/tags/css/index.json</link>
+      <link>cococoly.github.io/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>cococoly.github.io/tags/css/index.json</guid>
+      <guid>cococoly.github.io/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>cococoly.github.io/tags/html/index.json</link>
+      <link>cococoly.github.io/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>cococoly.github.io/tags/html/index.json</guid>
+      <guid>cococoly.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>cococoly.github.io/tags/markdown/index.json</link>
+      <link>cococoly.github.io/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>cococoly.github.io/tags/markdown/index.json</guid>
+      <guid>cococoly.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>cococoly.github.io/tags/themes/index.json</link>
+      <link>cococoly.github.io/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>cococoly.github.io/tags/themes/index.json</guid>
+      <guid>cococoly.github.io/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>cococoly.github.io/tags/privacy/index.json</link>
+      <link>cococoly.github.io/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>cococoly.github.io/tags/privacy/index.json</guid>
+      <guid>cococoly.github.io/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>cococoly.github.io/tags/shortcodes/index.json</link>
+      <link>cococoly.github.io/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>cococoly.github.io/tags/shortcodes/index.json</guid>
+      <guid>cococoly.github.io/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>cococoly.github.io/tags/text/index.json</link>
+      <link>cococoly.github.io/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>cococoly.github.io/tags/text/index.json</guid>
+      <guid>cococoly.github.io/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>cococoly.github.io/tags/emoji/index.json</link>
+      <link>cococoly.github.io/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>cococoly.github.io/tags/emoji/index.json</guid>
+      <guid>cococoly.github.io/tags/emoji/</guid>
       <description></description>
     </item>
     
